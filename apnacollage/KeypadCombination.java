@@ -13,7 +13,7 @@ public class KeypadCombination {
     }
 
     public static void main(String[] args) {
-        String number = "23";
+        String number = "06";
         oldPhoneKeypad(number,0,new StringBuilder());
     }
 }
