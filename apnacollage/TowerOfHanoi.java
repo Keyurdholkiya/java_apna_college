@@ -10,7 +10,7 @@ public class TowerOfHanoi {
     }
 
     public static void main(String[] args) {
-        int disk = 10;
+        int disk = 5;
         tower(disk,"s","d","h");
     }
 }
